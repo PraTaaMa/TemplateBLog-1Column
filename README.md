@@ -1,22 +1,22 @@
-Project Description
+<h1>Project Description</h1>
 
 
-Dev Environment Setup
+<b>Dev Environment Setup</b>
 - HTML 5
 - CSS3
 
 
-Source
+<b>Source</b>
 *Img
 - https://unsplash.com/photos/R53t-Tg6J4c
 - https://www.freeiconspng.com/img/23485
 
 
-Inspiration
+<b>Inspiration</b>
 - https://btemplates.com/2016/blogger-template-prose/demo/
 
 
-V1.0
+<b>V1.0.0</b>
 - Header
 - Thumbnail Image, Thumbnail Artikel
 - Footer
