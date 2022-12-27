@@ -20,3 +20,6 @@
 - Header
 - Thumbnail Image, Thumbnail Artikel
 - Footer
+
+<b>DEMO</b>
+https://prataama.github.io/TemplateBLog-1Column/
